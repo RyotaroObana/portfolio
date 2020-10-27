@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>156475938514-am16sv1r9eplfg2logr8elh4o5rpbou8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.156475938514-am16sv1r9eplfg2logr8elh4o5rpbou8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIkGTEIxT-UWJaGnP5-n8HpxA9GG0k6Rw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>156475938514</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Ryotaro-Obana.TodoChatNews</string>
+	<key>PROJECT_ID</key>
+	<string>famische-f2c14</string>
+	<key>STORAGE_BUCKET</key>
+	<string>famische-f2c14.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:156475938514:ios:acd688ebfe87f539f27f0b</string>
+	<key>DATABASE_URL</key>
+	<string>https://famische-f2c14.firebaseio.com</string>
+</dict>
+</plist>

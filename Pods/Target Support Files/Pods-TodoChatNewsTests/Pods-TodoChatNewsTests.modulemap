@@ -1,0 +1,6 @@
+framework module Pods_TodoChatNewsTests {
+  umbrella header "Pods-TodoChatNewsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
